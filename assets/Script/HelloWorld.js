@@ -10,7 +10,7 @@ cc.Class({
         text: 'Hello, World!'
     },
 
-    // use this for initialization 
+    // use this for initialization  
     onLoad: function () {
         this.label.string = this.text;   
     },
